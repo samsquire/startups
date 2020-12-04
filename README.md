@@ -88,7 +88,7 @@ Have a difficult interview process to get good staff and train them for each cli
 
 # 10. Teams as a service
 
-A job board where people can buddy up and say they work together in a team with a group of people. Ideally teams would have experience working together.
+A job board where people can buddy up and say they work well together in a team with a group of people. Teams would have experience working together. People are encouraged to stay in contact on the platform after being acquired.
 
 * **Difficulty** Hard
 * **Profitability** Lucrative
