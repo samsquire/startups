@@ -46,5 +46,21 @@ Off the shelf Docker images for integrating Kafka topics with AWS SNS, MSK, SQS,
 * **Code** Lots
 * **Profitability** Low
 
-# 6. 
+# 6. Verified Reviews
 
+A credit card company that provides the ability to do reviews from a dashboard
+
+* **Difficulty** Easy
+* **Relationships** Hard
+* **Profitability** High
+* **Code** Low
+
+# 7. Child entertainment budget
+
+Pay a fixed amount each month for your children, a combination of pocket money and entertainment budget which can be spent on games and platform videos.
+
+* **Difficulty** Easy
+* **Profitability** Medium 
+* **Code** Low
+
+# 8. 
