@@ -77,11 +77,12 @@ The platform could have an agreement whereby you agree to give a % of your salar
 
 # 9. Job Interviewless agency
 
-A high skilled agency that fulfils jobs at multi industry clients by promising there will be no second job interview for the client company.
+An agency that fulfils jobs at multi industry clients by promising to candidates there will be no second job interview.
 
 Have a difficult interview process to get good staff and train them for each client engagement. For retail staff, have a sticker that can be placed on retail front windows saying that we use this agency company.
 
 * **Difficulty** Hard
+* **Relationships** Hard
 * **Profitability** Lucrative
 * **Code** Low
 
