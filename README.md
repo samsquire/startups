@@ -57,10 +57,40 @@ A credit card company that provides the ability to do reviews from a dashboard
 
 # 7. Child entertainment budget
 
-Pay a fixed amount each month for your children, a combination of pocket money and entertainment budget which can be spent on games and platform videos.
+Pay a fixed amount each month for your children, a combination of pocket money and entertainment budget which can be spent on platform games and platform videos.
 
 * **Difficulty** Easy
 * **Profitability** Medium 
 * **Code** Low
 
-# 8. 
+# 8. Labour marketplace
+
+Put your sell bid into a labour marketplace which is a price you are willing to be hired at.
+
+Have a super indepth profile which tracks all your credentials and each is worth a different amount of money. For example, having studied at a certain university means your sell bid can be higher.
+
+The platform could have an agreement whereby you agree to give a % of your salary to them.
+
+* **Difficulty** Medium
+* **Profitability** Lucrative
+* **Code** Medium
+
+# 9. Job Interviewless agency
+
+A high skilled agency that fulfils jobs at multi industry clients by promising there will be no second job interview for the client company.
+
+Have a difficult interview process to get good staff and train them for each client engagement. For retail staff, have a sticker that can be placed on retail front windows saying that we use this agency company.
+
+* **Difficulty** Hard
+* **Profitability** Lucrative
+* **Code** Low
+
+# 10. Teams as a service
+
+A job board where people can buddy up and say they work together in a team with a group of people. Ideally teams would have experience working together.
+
+* **Difficulty** Hard
+* **Profitability** Lucrative
+* **Code** Medium
+
+# 11. 
