@@ -103,7 +103,7 @@ A GUI to aggregate clouds.
 * **Code** Lots
 
 
-# 12. A PaaS that scales
+# 12. A PaaS that scales from 0 automatically
 
 A PaaS that scales from one box to black friday.
 
@@ -111,5 +111,21 @@ A PaaS that scales from one box to black friday.
 * **Profitability** Ask how Heroku is doing
 * **Code** Lots
 
-# 13. 
+# 13. Insure anything
+
+A service that lets you buy insurance for your home, health, appliances and everyday carry on your mobile phone.
+
+* **Difficulty** Hard
+* **Profitability** High
+* **Code** Medium
+
+# 14. Mobile ERP
+
+ERP for small businesses that cannot afford SAP.
+
+* **Difficulty** Hard
+* **Profitability** High
+* **Code** High
+
+# 15. 
 
