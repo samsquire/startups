@@ -1,4 +1,4 @@
-# 100 Computer Startups
+# 25 Computer Startups
 
 # 1. Retail Business Cloud
 
@@ -77,9 +77,9 @@ The platform could have an agreement whereby you agree to give a % of your salar
 
 # 9. Job Interviewless agency
 
-An agency that fulfils jobs at multi industry clients by promising to candidates there will be no second job interview.
+An agency that fulfils jobs at multi industry clients by promising to candidates there will be no job interview.
 
-Have a difficult interview process to get good staff and train them for each client engagement. For retail staff, have a sticker that can be placed on retail front windows saying that we use this agency company.
+Have a application process to get good staff. For retail staff, have a sticker that can be placed on retail front windows saying that we use this agency company.
 
 * **Difficulty** Hard
 * **Relationships** Hard
@@ -88,10 +88,28 @@ Have a difficult interview process to get good staff and train them for each cli
 
 # 10. Teams as a service
 
-A job board where people can buddy up and say they work well together in a team with a group of people. Teams would have experience working together. People are encouraged to stay in contact on the platform after being acquired.
+A job board where people can buddy up and say they work well together in a team with a group of people. Teams would have experience working together. People are encouraged to stay in contact on the platform after being acquired. Can sell consulting ala Upwork or recruitment services.
 
 * **Difficulty** Hard
-* **Profitability** Lucrative
+* **Profitability** Medium
 * **Code** Medium
 
-# 11. 
+# 11. Cloud aggregator
+
+A GUI to aggregate clouds.
+
+* **Difficulty** Hard
+* **Profitability** Capture all the people who are afraid of vendor lock in.
+* **Code** Lots
+
+
+# 12. A PaaS that scales
+
+A PaaS that scales from one box to black friday.
+
+* **Difficulty** Hard
+* **Profitability** Ask how Heroku is doing
+* **Code** Lots
+
+# 13. 
+
