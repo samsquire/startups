@@ -127,5 +127,22 @@ ERP for small businesses that cannot afford SAP.
 * **Profitability** High
 * **Code** High
 
-# 15. 
+# 15. Income management guardian
 
+Income dashboard that helps you to find alternative sources of income, aggregate income data and invest, get life insurance from one interface.
+
+Market place of income generating opportunities such as dividend funds, property, side jobs.
+
+* **Difficulty** Hard
+* **Profitability** High
+* **Code** Medium
+
+# 16. Digital transformation as a service
+
+A stack in a commodified box of preconfigured software for use by businesses wishing to adopt a digital transformation.
+
+* **Difficulty** Hard
+* **Profitability** High
+* **Code** High
+
+# 17. 
