@@ -139,10 +139,36 @@ Market place of income generating opportunities such as dividend funds, property
 
 # 16. Digital transformation as a service
 
-A stack in a commodified box of preconfigured software for use by businesses wishing to adopt a digital transformation.
+A commodified stack in a box of preconfigured software for use by businesses wishing to adopt a digital transformation.
 
 * **Difficulty** Hard
 * **Profitability** High
 * **Code** High
 
-# 17. 
+# 17. Real time observability startup
+
+Real time observability dashboard of customers. If it's a website business, see people come to the website, move between pages, add things to cart, buy things.
+
+See [idea 71, Gaming interfaces for work ](https://github.com/samsquire/ideas#71-gaming-interfaces-for-work)
+
+The closest example I can think of is VisitorVille
+
+* **Difficulty** Medium
+* **Profitability** Low
+* **Code** Medium
+
+# 18. Development skills startup
+
+Start a development skills trainings startup for existing developers. Organisations don't want to pay training costs so you have to take your career into your own hands.
+
+* **Difficulty** Low
+* **Profitability** Medium
+* **Code** Medium
+
+# 19. 
+
+# Where there's money
+
+ * Advertisements
+ * Salaries
+ * Between Transactions
