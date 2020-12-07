@@ -147,7 +147,10 @@ A commodified stack in a box of preconfigured software for use by businesses wis
 
 # 17. Real time observability startup
 
-Real time observability dashboard of customers. If it's a website business, see people come to the website, move between pages, add things to cart, buy things.
+Either a real time observability dashboard of customers or of computer systems.
+
+* If it's a website business, see people come to the website, move between pages, add things to cart, buy things.
+* If it's a digital system, see requests being handled and work items making their way through the flow.
 
 See [idea 71, Gaming interfaces for work ](https://github.com/samsquire/ideas#71-gaming-interfaces-for-work)
 
