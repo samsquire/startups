@@ -168,7 +168,15 @@ Start a development skills trainings startup for existing developers. Organisati
 * **Profitability** Medium
 * **Code** Medium
 
-# 19. 
+# 19. Open source funding
+
+Make it easy to turn money into code.
+
+* **Difficulty** Hard
+* **Profitability** Low
+* **Code** Low
+
+# 20. 
 
 # Where there's money
 
