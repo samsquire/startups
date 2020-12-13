@@ -127,7 +127,7 @@ ERP for small businesses that cannot afford SAP.
 * **Profitability** High
 * **Code** High
 
-# 15. Income management guardian
+# 15. Sources of income startup
 
 Income dashboard that helps you to find alternative sources of income, aggregate income data and invest, get life insurance from one interface.
 
@@ -176,7 +176,13 @@ Make it easy to turn money into code.
 * **Profitability** Low
 * **Code** Low
 
-# 20. 
+# 20. Monetized content startup
+
+Allow arbitrary content to be monetized. Send money to an URL.
+
+* **Difficulty** Hard
+* **Profitability** High
+* **Code** High
 
 # 21. 
 
