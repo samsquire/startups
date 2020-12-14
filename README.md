@@ -184,7 +184,15 @@ Allow arbitrary content to be monetized. Send money to an URL.
 * **Profitability** High
 * **Code** High
 
-# 21. 
+# 21. Annotated video working streams
+
+Make working a matter of responding and interacting with a video stream.
+
+This idea originally appeared in [ideas2](https://github.com/samsquire/ideas2).
+
+* **Difficulty** Hard
+* **Profitability** High
+* **Code** High
 
 # Where there's money
 
