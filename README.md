@@ -188,7 +188,7 @@ Allow arbitrary content to be monetized. Send money to an URL.
 
 Make working a matter of responding and interacting with a video stream.
 
-This idea originally appeared in [ideas2](https://github.com/samsquire/ideas2).
+This idea originally appeared in [ideas2 3. Telework](https://github.com/samsquire/ideas2#3-telework).
 
 * **Difficulty** Hard
 * **Profitability** High
