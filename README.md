@@ -194,6 +194,13 @@ This idea originally appeared in [ideas2 3. Telework](https://github.com/samsqui
 * **Profitability** High
 * **Code** High
 
+# 22. 
+
+* **Difficulty**
+* **Profitability**
+* **Code**
+
+
 # Where there's money
 
  * Advertisements
