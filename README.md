@@ -190,6 +190,8 @@ Make working a matter of responding and interacting with a video stream.
 
 This idea originally appeared in [ideas2 3. Telework](https://github.com/samsquire/ideas2#3-telework).
 
+Think videos imposed with controls to interact with the stream.
+
 * **Difficulty** Hard
 * **Profitability** High
 * **Code** High
@@ -206,3 +208,5 @@ This idea originally appeared in [ideas2 3. Telework](https://github.com/samsqui
  * Advertisements
  * Salaries
  * Between Transactions
+ * Between businesses
+ * Forced transactions
