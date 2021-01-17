@@ -77,9 +77,9 @@ The platform could have an agreement whereby you agree to give a % of your salar
 
 # 9. Job Interviewless agency
 
-An agency that fulfils jobs at multi industry clients by promising to candidates there will be no job interview.
+An agency that fulfils jobs at multi industry clients by promising to candidates there will be no job interview as a form of open hiring.
 
-Have a application process to get good staff. For retail staff, have a sticker that can be placed on retail front windows saying that we use this agency company.
+Have a good application process to get good staff. For retail staff, have a sticker that can be placed on retail front windows saying that we use this agency company. People who have been vetted can decide where to work based on the logo.
 
 * **Difficulty** Hard
 * **Relationships** Hard
