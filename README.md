@@ -79,7 +79,7 @@ The platform could have an agreement whereby you agree to give a % of your salar
 
 An agency that fulfils jobs at multi industry clients by promising to candidates there will be no job interview as a form of open hiring.
 
-Have a good application process to get good staff. For retail staff, have a sticker that can be placed on retail front windows saying that we use this agency company. People who have been vetted can decide where to work based on the logo.
+Have a good application process to get good staff. For retail, have a sticker that can be placed on retail front windows saying that we use this agency company. People who have been vetted can decide where to work based on the logo.
 
 * **Difficulty** Hard
 * **Relationships** Hard
