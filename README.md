@@ -196,7 +196,7 @@ Think videos imposed with controls to interact with the stream. Online CCTV moni
 * **Profitability** High
 * **Code** High
 
-# 22. Immigration as Service app
+# 22. Immigration as a Service app
 
 A startup that helps people immigrate for a fee.
 
@@ -204,7 +204,35 @@ A startup that helps people immigrate for a fee.
 * **Profitability** Medium
 * **Code** Low
 
-# 23. 
+# 23. Manufacture app
+
+An crowdsourcing app where you can upload 3d printable models, PCB circuitboard designs and have them manufactured in China.
+
+Very few westerners know how to turn ideas into products where manufacturing happens all in China.
+
+* **Difficulty** High
+* **Profitability** Hard
+* **Code** Hard
+
+# 24. Regulation or API experts
+
+A company that aggregates and simplifies regulations or APIs and consults on them.
+
+* **Difficulty** Hard
+* **Profitability** High
+* **Code** Low
+
+# 25. Umbrella corporation
+
+A company that hosts other startups that are nascent. Provides services that all companies require such as accounting, user registration. Would use the best of breed technologies that members can get for free.
+
+* **Difficulty** Hard
+* **Profitability** High
+* **Code** High
+
+* **Difficulty**
+* **Profitability**
+* **Code**
 
 # Where there's money
 
