@@ -1,4 +1,4 @@
-# 25 Computer Startup Ideas
+# Twenty-Five Computer Startup Ideas
 
 # 1. Retail Business Cloud
 
