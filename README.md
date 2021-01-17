@@ -230,10 +230,6 @@ A company that hosts other startups that are nascent. Provides services that all
 * **Profitability** High
 * **Code** High
 
-* **Difficulty**
-* **Profitability**
-* **Code**
-
 # Where there's money
 
  * Advertisements
