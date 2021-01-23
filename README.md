@@ -50,7 +50,7 @@ Off the shelf Docker images for integrating Kafka topics with AWS SNS, MSK, SQS,
 
 # 6. Verified Reviews
 
-A credit card company that provides the ability to do reviews from a dashboard
+A credit card company that provides the ability to do product reviews from a dashboard on statements.
 
 * **Difficulty** Easy
 * **Relationships** Hard
