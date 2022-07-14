@@ -2,6 +2,13 @@
 
 If you're interested in any of these ideas, please start an issue to discuss it publicly or email me for a private discussion.
 
+If you're interested in computing ideas see:
+ * https://GitHub.com/samsquire/ideas
+ * https://GitHub.com/samsquire/ideas2
+ * https://GitHub.com/samsquire/ideas3
+ * https://GitHub.com/samsquire/ideas4
+ * https://GitHub.com/samsquire/startups
+
 # 1. Retail Business Cloud
 
 A platform for starting retail businesses: start a real life coffee shop by writing code. The platform combines a labour, supplier, relationship marketplace and allows you to acquire resources (staff, retail space, commodities, food couriers) and dictate how they should manifest in the real world. Design your branding with an editor, work with suppliers (such as store outfitters) who are on the platform and have a retail space fitted out for serving customers. Crowdsource your business. Sell equity on the platform.
