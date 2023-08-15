@@ -29,7 +29,7 @@ Postgres, MySQL backup as a service. Dashboards. Restore button.
 
 # 3. Lifestyle subscriptions
 
-Sell lifestyle packages to people. Use recommendation engines to sell restaurants, food, equipment, courses, supplies, neighbourhoods, jobs to triathlon runners, programmers, vegans, yoga people, mothers, communists, painters. Think affiliate marketing legitimatised and applied to people's desires. Buy the lifestyle of "a coffee every day before work" or "I live in this neighbourhood".
+Sell lifestyle packages to people. Use recommendation engines to sell restaurants, food, equipment, courses, supplies, neighbourhoods, jobs to triathlon runners, programmers, vegans, yoga people, mothers, communists, painters. Think affiliate marketing legitimatised and applied to people's desires. Buy the lifestyle of "a coffee every day before work" or "I live in this neighbourhood". Trade your salary for a package of guaranteed transportation, food and shelter.
 
 See http://lifestyle-subscriptions.com/
 
